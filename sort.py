@@ -7,8 +7,9 @@ for j in range(1, n):
     while i >= 0 and arr[i] > key:
         arr[i+1] = arr[i]
         i = i - 1
-    arr[i+1] = key   # now it’s outside the while
+    arr[i+1] = key   
 
 print(arr)
 
 #TT361 group
+
