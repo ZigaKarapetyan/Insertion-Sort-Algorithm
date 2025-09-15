@@ -10,3 +10,5 @@ for j in range(1, n):
     arr[i+1] = key   # now it’s outside the while
 
 print(arr)
+
+#TT361 group
